@@ -31,19 +31,39 @@
 **More detailed List will go on its specific lesson**
 
 ### Vid_004: Create Project Structure:
-- [data][3]
-    + [uploads][4]
-- [docs][5]
-- [includes][6]
-    + [functions][7]
-    + [languages][8]
-    + [libraries][9]
-    + [templates][10]
-- [layouts][11]
-    + [css][12]
-    + [fonts][13]
-    + [images][14]
-    + [js][15]
+- [admin][3]
+    + [includes][4]
+        - [functions][5]
+        - [languages][6]
+        - [libraries][7]
+        - [templates][8]
+            + [header.php][27]
+            + [footer.php][28]
+    + [layouts][9]
+        - [css][10]
+        - [fonts][11]
+        - [images][12]
+        - [js][13]
+    + [index.php][29]
+- [data][14]
+    + [uploads][15]
+- [docs][16]
+- [includes][17]
+    + [functions][18]
+    + [languages][19]
+    + [libraries][20]
+    + [templates][21]
+- [layouts][22]
+    + [css][23]
+    + [fonts][24]
+    + [images][25]
+    + [js][26]
+
+### Vid_005: Include the Main Required Files:
+#### Adding Index File to Admin Header & Foote to Admin Template:
++ header.php
++ footer.php
++ index.php
 
 
 
@@ -52,21 +72,39 @@
 
 
 
-
-
-
+[//]: <> (Course Links)
 [1]:    https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU
 [2]:    https://www.youtube.com/user/OsamaElzero
-[3]:    ./data
-[4]:    ./data/uploads
-[5]:    ./docs
-[6]:    ./includes
-[7]:    ./includes/functions
-[8]:    ./includes/languages
-[9]:    ./includes/libraries
-[10]:   ./includes/templates
-[11]:   ./layout
-[12]:   ./layout/css
-[13]:   ./layout/fonts
-[14]:   ./layout/images
-[15]:   ./layout/js
+
+[//]: <> (Admin Relative Links)
+[3]:    ./admin
+[4]:    ./admin/includes
+[5]:    ./admin/includes/functions
+[6]:    ./admin/includes/languages
+[7]:    ./admin/includes/libraries
+[8]:    ./admin/includes/templates
+[9]:    ./admin/layout
+[10]:   ./admin/layout/css
+[11]:   ./admin/layout/fonts
+[12]:   ./admin/layout/images
+[13]:   ./admin/layout/js
+
+[//]: <> (Application Relative Links)
+[14]:   ./data
+[15]:   ./data/uploads
+[16]:   ./docs
+
+[17]:   ./includes
+[18]:   ./includes/functions
+[19]:   ./includes/languages
+[20]:   ./includes/libraries
+[21]:   ./includes/templates
+[22]:   ./layout
+[23]:   ./layout/css
+[24]:   ./layout/fonts
+[25]:   ./layout/images
+[26]:   ./layout/js
+
+[27]:   ./admin/includes/templates/header.php
+[28]:   ./admin/includes/templates/footer.php
+[29]:   ./admin/index.php
