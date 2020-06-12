@@ -3,6 +3,11 @@
 
 ## You can watch the [eCommerce course][1] on [Elzero Web School][2] YouTube channel.
 
+### vid_001: Introduction to the course:
+#### During this course you will learn how to build:
+- An eCommerce Shop website.
+- Aadministration Panel.
+- Bi-lingual Website.
 
 
 
