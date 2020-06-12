@@ -41,9 +41,15 @@
             + [footer.php][28]
     + [layouts][9]
         - [css][10]
+            + [bootstrap.min.css][30]
+            + [font-awesome.css][31]
+            + [backend.css][32]
         - [fonts][11]
         - [images][12]
         - [js][13]
+            + [jquery.min.js][33]
+            + [bootstrap.min.js][34]
+            + [backend.js][35]
     + [index.php][29]
 - [data][14]
     + [uploads][15]
@@ -65,6 +71,14 @@
 + footer.php
 + index.php
 
+### Vid_006: Adding Tools & Libraries:
++ Bootstrap 3 [ CSS | Js ].
++ Font Awesome 4.7.
++ backend.css.
++ jQuery.
++ backend.js.
+
+**N.B: In the course we download all the required Libraries; In production we're using CDN links instead.**
 
 
 
@@ -108,3 +122,11 @@
 [27]:   ./admin/includes/templates/header.php
 [28]:   ./admin/includes/templates/footer.php
 [29]:   ./admin/index.php
+
+[//]: <> (Libraries Relative Links)
+[30]:   admin/layout/css/bootstrap.min.css
+[31]:   admin/layout/css/font-awesome.min.css
+[32]:   admin/layout/css/backend.css
+[33]:   admin/layout/js/jquery.min.js
+[34]:   admin/layout/js/bootstrap.min.js
+[35]:   admin/layout/js/backend.js
