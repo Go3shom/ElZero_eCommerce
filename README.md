@@ -51,6 +51,7 @@
             + [bootstrap.min.js][34]
             + [backend.js][35]
     + [index.php][29]
+    + [init.php][36]
 - [data][14]
     + [uploads][15]
 - [docs][16]
@@ -80,6 +81,8 @@
 
 **N.B: In the course we download all the required Libraries; In production we're using CDN links instead.**
 
+### Vid_007: Create init.php File:
++ init file. [ initialize Router ]
 
 
 
@@ -124,9 +127,10 @@
 [29]:   ./admin/index.php
 
 [//]: <> (Libraries Relative Links)
-[30]:   admin/layout/css/bootstrap.min.css
-[31]:   admin/layout/css/font-awesome.min.css
-[32]:   admin/layout/css/backend.css
-[33]:   admin/layout/js/jquery.min.js
-[34]:   admin/layout/js/bootstrap.min.js
-[35]:   admin/layout/js/backend.js
+[30]:   ./admin/layout/css/bootstrap.min.css
+[31]:   ./admin/layout/css/font-awesome.min.css
+[32]:   ./admin/layout/css/backend.css
+[33]:   ./admin/layout/js/jquery.min.js
+[34]:   ./admin/layout/js/bootstrap.min.js
+[35]:   ./admin/layout/js/backend.js
+[36]:   ./admin/index.php
