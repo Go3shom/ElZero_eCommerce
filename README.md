@@ -35,6 +35,7 @@
     + [includes][4]
         - [functions][5]
         - [languages][6]
+            - [english.php][37]
         - [libraries][7]
         - [templates][8]
             + [header.php][27]
@@ -84,6 +85,8 @@
 ### Vid_007: Create init.php File:
 + init file. [ initialize Router ]
 
+### Vid_008: Create & Test Languages Files:
++ english.php
 
 
 
@@ -134,3 +137,5 @@
 [34]:   ./admin/layout/js/bootstrap.min.js
 [35]:   ./admin/layout/js/backend.js
 [36]:   ./admin/index.php
+
+[37]:   ./admin/includes/languages/english.php
