@@ -53,6 +53,8 @@
             + [backend.js][35]
     + [index.php][29]
     + [init.php][36]
+    + [sql][38]
+        + [database.sql][39]
 - [data][14]
     + [uploads][15]
 - [docs][16]
@@ -88,6 +90,8 @@
 ### Vid_008: Create & Test Languages Files:
 + english.php
 
+### Vid_009: Create The Main Database:
++ database.sql
 
 
 
@@ -139,3 +143,5 @@
 [36]:   ./admin/index.php
 
 [37]:   ./admin/includes/languages/english.php
+[38]:   ./admin/sql/
+[39]:   ./admin/sql/database.sql
