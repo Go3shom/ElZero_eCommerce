@@ -57,6 +57,7 @@
         + [database.sql][39]
     + [connect.php][40]
     + [dashboard.php][41]
+    + [page.php][42]
 - [data][14]
     + [uploads][15]
 - [docs][16]
@@ -117,6 +118,8 @@
 
 **N.B: I made a slightly diffrent styles in my own file; It's not identical to Osama's file.**
 
+### Vid_016: Split Page With Get Request:
++ Intoductory to Action Page [ ADD | EDIT | VIEW | DELETE ].
 
 
 
@@ -171,3 +174,4 @@
 [39]:   ./admin/sql/database.sql
 [40]:   ./admin/connect.php
 [41]:   ./admin/dashboard.php
+[42]:   ./admin/page.php
