@@ -62,7 +62,7 @@
 						</li>
 						<li role="separator" class="divider"></li>
 						<li>
-							<a href="#">
+							<a href="logout.php">
 								<?php echo lang( '__LOGOUT' ); ?>
 							</a>
 						</li>

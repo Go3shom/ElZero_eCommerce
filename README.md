@@ -58,6 +58,7 @@
     + [connect.php][40]
     + [dashboard.php][41]
     + [page.php][42]
+    + [logout.php][43]
 - [data][14]
     + [uploads][15]
 - [docs][16]
@@ -121,6 +122,8 @@
 ### Vid_016: Split Page With Get Request:
 + Intoductory to Action Page [ ADD | EDIT | VIEW | DELETE ].
 
+### Vid_017: Create Logout.php Page:
++ Adding Logout Page and Destroying Session.
 
 
 [//]: <> (Course Links)
@@ -175,3 +178,4 @@
 [40]:   ./admin/connect.php
 [41]:   ./admin/dashboard.php
 [42]:   ./admin/page.php
+[43]:   ./admin/logout.php
