@@ -55,6 +55,7 @@
     + [init.php][36]
     + [sql][38]
         + [database.sql][39]
+    + [connect.php][40]
 - [data][14]
     + [uploads][15]
 - [docs][16]
@@ -93,6 +94,8 @@
 ### Vid_009: Create The Main Database:
 + database.sql
 
+### Vid_010: Connect To Database:
++ connect.php
 
 
 
@@ -145,3 +148,4 @@
 [37]:   ./admin/includes/languages/english.php
 [38]:   ./admin/sql/
 [39]:   ./admin/sql/database.sql
+[40]:   ./admin/connect.php
