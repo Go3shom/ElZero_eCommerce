@@ -86,20 +86,22 @@
 **N.B: In the course we download all the required Libraries; In production we're using CDN links instead.**
 
 ### Vid_007: Create init.php File:
-+ init file. [ initialize Router ]
++ init file. [ initialize Router ].
 
 ### Vid_008: Create & Test Languages Files:
-+ english.php
++ english.php.
 
 ### Vid_009: Create The Main Database:
-+ database.sql
++ database.sql.
 
 ### Vid_010: Connect To Database:
-+ connect.php
++ connect.php.
 
 ### Vid_011: Design the Login Form Page:
-#### Adding Admin Login Form to index.php file
++ Adding Admin Login Form to index.php file.
 
+### Vid_012: Code The Login Form Part 1:
++ Addin Admin Authentication.
 
 [//]: <> (Course Links)
 [1]:    https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU
