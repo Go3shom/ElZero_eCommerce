@@ -56,6 +56,7 @@
     + [sql][38]
         + [database.sql][39]
     + [connect.php][40]
+    + [dashboard.php][41]
 - [data][14]
     + [uploads][15]
 - [docs][16]
@@ -101,7 +102,12 @@
 + Adding Admin Login Form to index.php file.
 
 ### Vid_012: Code The Login Form Part 1:
-+ Addin Admin Authentication.
++ Adding Admin Authentication.
+
+### Vid_013: Code The Login Form Part 2:
++ Adding User SESSION.
++ Adding UNIQUE Username Constraint.
++ Adding dashboard.php.
 
 
 
@@ -155,3 +161,4 @@
 [38]:   ./admin/sql/
 [39]:   ./admin/sql/database.sql
 [40]:   ./admin/connect.php
+[41]:   ./admin/dashboard.php

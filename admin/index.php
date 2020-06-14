@@ -1,4 +1,9 @@
-<?php 
+<?php
+    session_start();
+    if ( isset( $_SESSION[ 'username' ] )) {
+        header( 'Location: dashboard.php' );
+    }
+
     include 'init.php'; 
     include $tpl . 'header.php'; 
     include './includes/languages/english.php';
@@ -33,8 +38,9 @@
         $count = $stmt->rowCount();
 
         if ( $count > 0 ) {
-            echo 'Welcome ' . $username;
-            
+            $_SESSION[ 'username' ] = $username;
+            header( 'Location: dashboard.php' );
+            exit();
         }
     }
 

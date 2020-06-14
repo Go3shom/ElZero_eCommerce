@@ -17,10 +17,16 @@
     );
 
 
+    ALTER TABLE
+        `user` ADD UNIQUE(`username`);
+
+
+
     INSERT INTO `user`(`username`, `password`, `email`, `full_name`, `group_id`) 
     VALUES ('admin', SHA1('123'), 'admin@aol.com', 'Admin', '1');
 
     INSERT INTO `user`(`username`, `password`, `email`, `full_name`) 
     VALUES ('John', SHA1('456'), 'johne.doe@aol.com', 'John Doe');
+
 
     -- TRUNCATE TABLE `user`
