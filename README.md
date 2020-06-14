@@ -112,6 +112,13 @@
 ### Vid_014: Add the Bootstrap Navigation Bar:
 + Adding navbar.php, phrases to english.php.
 
+### Vid_015: Design and Customize the Navigation Bar:
++ Adding some CSS Styles to navbar.
+
+**N.B: I made a slightly diffrent styles in my own file; It's not identical to Osama's file.**
+
+
+
 
 [//]: <> (Course Links)
 [1]:    https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU

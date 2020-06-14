@@ -21,6 +21,26 @@
 						<?php echo lang( '__CATEGORIES' ); ?>
 					</a>
 				</li>
+				<li>
+					<a href="#">
+						<?php echo lang( '__ITEMS' ); ?>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<?php echo lang( '__MEMBERS' ); ?>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<?php echo lang( '__STATISTICS' ); ?>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<?php echo lang( '__LOGS' ); ?>
+					</a>
+				</li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li class="dropdown">
