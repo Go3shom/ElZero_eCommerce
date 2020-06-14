@@ -1,13 +1,14 @@
 <?php
     session_start();
+    $noNavbar = '';
+
     if ( isset( $_SESSION[ 'username' ] )) {
         header( 'Location: dashboard.php' );
     }
 
+    
     include 'init.php'; 
-    include $tpl . 'header.php'; 
-    include './includes/languages/english.php';
-
+    
 
     if ( $_SERVER[ 'REQUEST_METHOD' ] == 'POST' ) {
         $username   = $_POST[ 'user' ];
@@ -44,6 +45,8 @@
         }
     }
 
+    // session_unset();
+    // session_destroy();
 
 ?>
 

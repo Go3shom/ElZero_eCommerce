@@ -109,6 +109,8 @@
 + Adding UNIQUE Username Constraint.
 + Adding dashboard.php.
 
+### Vid_014: Add the Bootstrap Navigation Bar:
++ Adding navbar.php, phrases to english.php.
 
 
 [//]: <> (Course Links)
