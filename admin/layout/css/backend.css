@@ -1,0 +1,18 @@
+/* START EDIT BOOTSTRAP */
+
+.text-default {
+    color: #959595;
+}
+
+.login {
+    margin: 7em auto;
+    max-width: 300px;
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: 0 0.3em 1em 0 #959595;
+}
+.login__lable {
+    display: inline;
+}
+
+/* END EDIT BOOTSTRAP */

@@ -1,9 +1,6 @@
 
 
 
-    <footer>
-        This is Footer.
-    </footer>
     
     <!-- MINIFIED JQUERY -->
     <script src="<?php echo $js; ?>jquery.min.js"></script>
