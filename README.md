@@ -125,6 +125,11 @@
 ### Vid_017: Create Logout.php Page:
 + Adding Logout Page and Destroying Session.
 
+### Vid_018: Create our First Function getTitle():
++ Adding functions file, getTitle function.
+
+
+
 
 [//]: <> (Course Links)
 [1]:    https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU
@@ -179,3 +184,4 @@
 [41]:   ./admin/dashboard.php
 [42]:   ./admin/page.php
 [43]:   ./admin/logout.php
+[44]:   ./admin/functions.php
